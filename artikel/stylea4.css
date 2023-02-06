@@ -1,0 +1,33 @@
+.Headding {
+  font-size: 80%;
+  text-align: center;
+}
+
+.qoute {
+  font-style: italic;
+}
+
+.paragraf {
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 1.5;
+}
+
+.kembali {
+  text-align: center;
+  text-transform: lowercase;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  flex: 1;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+}

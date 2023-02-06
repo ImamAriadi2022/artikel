@@ -1,0 +1,28 @@
+.headding {
+  font-size: 60%;
+  text-align: center;
+  padding: 5%;
+}
+
+.qoute {
+  font-style: italic;
+}
+
+.kembali {
+  text-align: center;
+  text-transform: lowercase;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  flex: 1;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+}
